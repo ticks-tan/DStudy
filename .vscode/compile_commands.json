@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/WorkDir/Code/cpp/DStudy/build/Debug/win32",
+  "command": "D:\\Bin\\Mingw\\mingw64-gcc-13.1-full\\bin\\g++.exe -ID:/WorkDir/Code/cpp/DStudy/include/tree -g -std=gnu++20 -o CMakeFiles\\Tree.dir\\src\\tree\\main.cc.obj -c D:\\WorkDir\\Code\\cpp\\DStudy\\src\\tree\\main.cc",
+  "file": "D:\\WorkDir\\Code\\cpp\\DStudy\\src\\tree\\main.cc",
+  "output": "CMakeFiles\\Tree.dir\\src\\tree\\main.cc.obj"
+},
+{
+  "directory": "D:/WorkDir/Code/cpp/DStudy/build/Debug/win32",
+  "command": "D:\\Bin\\Mingw\\mingw64-gcc-13.1-full\\bin\\g++.exe -D__DEBUG__ -ID:/WorkDir/Code/cpp/DStudy/include -g -std=gnu++20 -o CMakeFiles\\Sort.dir\\src\\algorithm\\sort.cc.obj -c D:\\WorkDir\\Code\\cpp\\DStudy\\src\\algorithm\\sort.cc",
+  "file": "D:\\WorkDir\\Code\\cpp\\DStudy\\src\\algorithm\\sort.cc",
+  "output": "CMakeFiles\\Sort.dir\\src\\algorithm\\sort.cc.obj"
+},
+{
+  "directory": "D:/WorkDir/Code/cpp/DStudy/build/Debug/win32",
+  "command": "D:\\Bin\\Mingw\\mingw64-gcc-13.1-full\\bin\\g++.exe -D__DEBUG__ -ID:/WorkDir/Code/cpp/DStudy/include -g -std=gnu++20 -o CMakeFiles\\Sort.dir\\src\\algorithm\\sort_test.cc.obj -c D:\\WorkDir\\Code\\cpp\\DStudy\\src\\algorithm\\sort_test.cc",
+  "file": "D:\\WorkDir\\Code\\cpp\\DStudy\\src\\algorithm\\sort_test.cc",
+  "output": "CMakeFiles\\Sort.dir\\src\\algorithm\\sort_test.cc.obj"
+}
+]
